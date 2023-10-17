@@ -1,4 +1,4 @@
-![Profil Resmi](https://i.pinimg.com/564x/09/20/a4/0920a4a0a47e5a55ffd199c9c5de9f6d.jpg)
+![Profil Resmi](https://as1.ftcdn.net/v2/jpg/04/47/17/68/1000_F_447176828_7Leejwia38M4u7OA3EdTGjwWapEwTHx0.jpg)
 <h1 align="center">Merhaba 👋, ben Bessem Huseydi</h1>
 <h3 align="center">Türkiye'de yaşayan ve yapay zekaya meraklı bir bilgisayar mühendisliği öğrencisiyim.</h3>
 

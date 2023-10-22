@@ -1,5 +1,14 @@
 ![Profil Resmi](https://as1.ftcdn.net/v2/jpg/04/47/17/68/1000_F_447176828_7Leejwia38M4u7OA3EdTGjwWapEwTHx0.jpg)
-<h1 align="center">Merhaba 👋, ben Bessem Huseydi</h1>
+
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muffafa.muffafa">
+<div align="center">
+ <a href="https://github.com/muffafa">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=HHELLO+THERE!+%F0%9F%91%BE+WELCOME+%F0%9F%99%8B%F0%9F%8F%BB;MY+NAME+IS+BESSEM+%F0%9F%98%BC;BESSEM+ELHUSEYDI+   +%F0%9F%A4%93" alt="Typing SVG" />
+ </a>
+</div>
+
+
 <h3 align="center">Türkiye'de yaşayan ve yapay zekaya meraklı bir bilgisayar mühendisliği öğrencisiyim.</h3>
 
 - 🌱 Şu anda **Python** öğreniyorum.

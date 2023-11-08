@@ -15,7 +15,7 @@
 
 - 👨‍💻 Tüm projelerim [BessenHuseydi](https://github.com/BessenHuseydi) adresinde mevcut.
 
-- 💬 Bana **C#, C++, HTML, CSS, JavaScript** hakkında sorun.
+- 💬 Bana **C#, C++, HTML, CSS, JavaScript,Python** hakkında sorun.
 
 - 📫 Bana nasıl ulaşırsınız: **bessemhuseyde@gmail.com**.
 

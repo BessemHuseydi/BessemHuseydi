@@ -9,7 +9,7 @@
 </div>
 
 
-<h3 align="center">Türkiye'de yaşayan ve yapay zekaya meraklı bir bilgisayar mühendisliği öğrencisiyim.</h3>
+<h3 align="center">Bir yapay zeka meraklısı ve bilgisayar mühendisliği öğrencisiyim 🧠🚀.</h3>
 
 - 🌱 Şu anda **Python** öğreniyorum.
 

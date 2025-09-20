@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://as1.ftcdn.net/v2/jpg/04/47/17/68/1000_F_447176828_7Leejwia38M4u7OA3EdTGjwWapEwTHx0.jpg" alt="Profil Resmi" width="200"/>
+  <img src="https://as1.ftcdn.net/v2/jpg/04/47/17/68/1000_F_447176828_7Leejwia38M4u7OA3EdTGjwWapEwTHx0.jpg" alt="Profil Resmi"/>
 </p>
 
 <h1 align="center">Merhaba, Ben Bessem 👋</h1>
@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
- <a href="https://github.com/BessemHuseydi">
+  <a href="https://github.com/BessemHuseydi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=700&center=true&vCenter=true&width=500&lines=Hoşgeldiniz!+🚀;Benim+adım+Bessem+🧑‍💻;AI+%26+Yazılım+meraklısıyım+🧠" alt="Typing SVG" />
- </a>
+  </a>
 </p>
 
 ---
@@ -20,9 +20,7 @@
 - 👨‍💻 Tüm projelerime buradan ulaşabilirsiniz 👉 [BessemHuseydi](https://github.com/BessemHuseydi)  
 - 💬 **C++, C#, Python, JavaScript, HTML, CSS** hakkında konuşabiliriz.  
 - 🤖 Robotik, Yapay Zeka ve Yazılım geliştirme konularına ilgi duyuyorum.  
-- 📩 Bana ulaşmak için: **bessemhuseyde@gmail.com**  
-
----
+- 📩 Bana ulaşmak için: **bessemhuseyde@gmail.com** ---
 
 ## ⚙️ Kullandığım Diller & Araçlar  
 
@@ -45,15 +43,15 @@
 
 ## 🏆 GitHub Başarımları  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BessemHuseydi&theme=radical&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BessemHuseydi&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Başarımları"/>
 </p>
 
 ---
 
 ## 📊 GitHub İstatistikleri  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BessemHuseydi&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BessemHuseydi&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BessemHuseydi&show_icons=true&theme=radical" height="165" alt="GitHub İstatistikleri"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BessemHuseydi&layout=compact&theme=radical" height="165" alt="En Çok Kullanılan Diller"/>
 </p>
 
 ---
@@ -61,11 +59,11 @@
 ## 📫 Benimle İletişime Geçin  
 
 <p align="center">
- <a href="https://twitter.com/bessem" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
- <a href="https://linkedin.com/in/bessem-elhuseyd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href="https://fb.com/bessem.husaeydi" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
- <a href="https://instagram.com/beseydi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
- <a href="https://discord.gg/toxic5176" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://twitter.com/bessem" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/bessem-elhuseyd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://fb.com/bessem.husaeydi" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://instagram.com/beseydi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://discord.gg/toxic5176" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 ---
@@ -73,7 +71,7 @@
 <p align="center">🚀 Sürekli öğreniyor, sürekli gelişiyorum!</p>
 
 <p align="center">
- <picture>
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muffafa/muffafa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muffafa/muffafa/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muffafa/muffafa/output/github-contribution-grid-snake.svg">

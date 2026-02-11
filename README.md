@@ -21,7 +21,9 @@
 - 👨‍💻 All my projects are available here 👉 [BessemHuseydi](https://github.com/BessemHuseydi)  
 - 💬 Ask me about **C++, C#, Python, JavaScript, HTML, CSS, Machine Learning, and Deep Learning**.  
 - 🤖 I am interested in Robotics, AI, and Software Development.  
-- 📩 How to reach me: **bessemhuseyde@gmail.com** ---
+- 📩 How to reach me: **bessemhuseyde@gmail.com**
+
+---
 
 ## ⚙️ Languages & Tools I Use  
 
@@ -52,17 +54,13 @@
 
 ---
 
-## 🏆 GitHub Trophies  
+## 📈 GitHub Activity  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BessemHuseydi&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BessemHuseydi&theme=radical" alt="GitHub Streak"/>
 </p>
 
----
-
-## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BessemHuseydi&show_icons=true&theme=radical" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BessemHuseydi&layout=compact&theme=radical" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BessemHuseydi&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -72,9 +70,8 @@
 <p align="center">
   <a href="https://twitter.com/bessem" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://linkedin.com/in/bessem-elhuseyd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://fb.com/bessem.husaeydi" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://instagram.com/beseydi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://discord.gg/toxic5176" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="mailto:bessemhuseyde@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---

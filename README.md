@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BessemHuseydi/BessemHuseydi/main/assets/header.svg" width="100%" alt="Bessem Elhuseydi — Computer Engineer · AI & Computer Vision"/>
+  <img src="https://raw.githubusercontent.com/BessemHuseydi/BessemHuseydi/main/header.svg" width="100%" alt="Bessem Elhuseydi — Computer Engineer · AI & Computer Vision"/>
 </p>
 
 <p align="center">
@@ -142,5 +142,5 @@ A .NET web application for a barber shop, built with an **N-tier architecture** 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BessemHuseydi/BessemHuseydi/main/assets/footer.svg" width="100%" alt=""/>
+  <img src="https://raw.githubusercontent.com/BessemHuseydi/BessemHuseydi/main/footer.svg" width="100%" alt=""/>
 </p>

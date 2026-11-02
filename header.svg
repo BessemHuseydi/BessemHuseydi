@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2c9bb8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#2c9bb8"/>
+      <stop offset="100%" stop-color="#2c9bb8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <style>
+      .name { font: 700 52px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; letter-spacing: 1px; }
+      .role { font: 500 20px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #b9d7e0; letter-spacing: 3px; }
+      .fade { animation: fadeIn 1.2s ease-out both; }
+      .fade2 { animation: fadeIn 1.2s ease-out 0.4s both; }
+      @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+  </defs>
+
+  <!-- background with wavy bottom edge -->
+  <path d="M0 0H1200V190C1060 225 920 160 760 190C600 220 470 165 300 192C180 211 80 200 0 185Z" fill="url(#bg)"/>
+  <path d="M0 0H1200V190C1060 225 920 160 760 190C600 220 470 165 300 192C180 211 80 200 0 185Z" fill="url(#grid)"/>
+
+  <!-- detection-box motif (computer vision) -->
+  <g fill="none" stroke="#2c9bb8" stroke-width="2" opacity="0.55">
+    <path d="M70 50h22M70 50v22"/>
+    <path d="M190 50h-22M190 50v22"/>
+    <path d="M70 140h22M70 140v-22"/>
+    <path d="M190 140h-22M190 140v-22"/>
+    <path d="M1010 50h22M1010 50v22"/>
+    <path d="M1130 50h-22M1130 50v22"/>
+    <path d="M1010 140h22M1010 140v-22"/>
+    <path d="M1130 140h-22M1130 140v-22"/>
+  </g>
+  <g font-family="'Fira Code', Consolas, monospace" font-size="12" fill="#2c9bb8" opacity="0.7">
+    <text x="70" y="42">defect 0.98</text>
+    <text x="1010" y="42">ok 0.99</text>
+  </g>
+
+  <text x="600" y="100" text-anchor="middle" class="name fade">Bessem Elhuseydi</text>
+  <rect x="420" y="118" width="360" height="2" fill="url(#line)" class="fade2"/>
+  <text x="600" y="150" text-anchor="middle" class="role fade2">COMPUTER ENGINEER · AI &amp; COMPUTER VISION</text>
+</svg>
